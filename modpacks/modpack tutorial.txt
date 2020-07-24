@@ -1,0 +1,4 @@
+A zip fájlokat ahogy vanna kmásold be ide:
+...AppData\Roaming\.minecraft\resourcepacks
+
+Minecraftban a beállításokban választhatod ki oket.
