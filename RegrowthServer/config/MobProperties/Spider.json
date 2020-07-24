@@ -1,0 +1,14 @@
+{
+  "_name": "Spider",
+  "drops": [{
+	"function" : "if_rare",
+	"functions" : [{
+		"function" : "add",
+		"count" : "1",
+		"id" : "witchery:ingredient",
+		"damage" : "160"
+	}]
+  }],
+  "pre_stats": [],
+  "stats": []
+}

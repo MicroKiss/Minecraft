@@ -1,0 +1,31 @@
+{
+  "_name": "Thaumcraft.GiantBrainyZombie",
+  "drops": [{
+	"function" : "remove",
+	"id" : "minecraft:iron_ingot"
+	},
+	{
+	"function" : "if_rare",
+	"functions" : [{
+		"function" : "choose",
+		"count" : "1",
+		"functions" : [{
+			"function" : "add",
+			"count" : "1",
+			"id" : "Quadrum:secret1"
+			},
+			{
+			"function" : "add",
+			"count" : "0.8",
+			"id" : "Quadrum:secret2"
+			},
+			{
+			"function" : "add",
+			"count" : "0.6",
+			"id" : "Quadrum:secret3"
+			}]
+		}]
+	}],
+  "pre_stats": [],
+  "stats": []
+}

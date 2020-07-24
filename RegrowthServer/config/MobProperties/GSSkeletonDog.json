@@ -1,0 +1,32 @@
+{
+  "_name": "GSSkeletonDog",
+  "drops": [{
+	"function" : "if_rare",
+	"functions" : [{
+		"function" : "choose",
+		"count" : "1",
+		"functions" : [{
+			"function" : "add",
+			"count" : "1",
+			"id" : "Quadrum:secret1"
+			},
+			{
+			"function" : "add",
+			"count" : "0.8",
+			"id" : "Quadrum:secret2"
+			},
+			{
+			"function" : "add",
+			"count" : "0.6",
+			"id" : "Quadrum:secret3"
+			}]
+		}]
+	}],
+  "pre_stats": [],
+  "stats": [{
+	"function": "modifier",
+	"attribute": "generic.movementSpeed",
+	"value": 0.5,
+	"operator": 1
+	}]
+}

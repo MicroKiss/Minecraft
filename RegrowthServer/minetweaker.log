@@ -1,0 +1,1441 @@
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command gases
+INFO: Adding minetweaker command mekanism
+INFO: Adding minetweaker command railcraft
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <academy-craft:ac_Item_rfIronPlate>
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <academy-craft:ac_Item_constPlate>
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Mekanism Enrichment Recipe(s) for <academy-craft:ac_Item_wafer>
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Mekanism Crusher Recipe(s) for <academy-craft:ac_Item_silPiece>
+INFO: Removing 2 recipes
+INFO: Adding recipe for Data Chip
+INFO: Removing 1 recipes
+INFO: Adding recipe for Charger
+INFO: [ModTweaker2] Adding 1 Botania Eleven Trade Recipe(s) for <appliedenergistics2:tile.BlockSkyStone>
+INFO: Adding recipe for Inscriber Silicon Press
+INFO: Adding recipe for Inscriber Silicon Press
+INFO: Adding recipe for Inscriber Calculation Press
+INFO: Adding recipe for Inscriber Engineering Press
+INFO: Adding recipe for Inscriber Logic Press
+INFO: Adding soils [GardenCore:garden_farmland:0] to whitelist.
+INFO: Adding soils [MagicBees:magicbees.enchantedEarth:0] to whitelist.
+INFO: Setting soil for Essence Seeds to Tilled Garden Soil
+INFO: Setting soil for Coal Seeds to Tilled Garden Soil
+INFO: Setting soil for Dye Seeds to Tilled Garden Soil
+INFO: Setting soil for Redstone Seeds to Tilled Garden Soil
+INFO: Setting soil for Glowstone Seeds to Tilled Garden Soil
+INFO: Setting soil for Obsidian Seeds to Tilled Garden Soil
+INFO: Setting soil for Iron Seeds to Tilled Garden Soil
+INFO: Setting soil for Gold Seeds to Tilled Garden Soil
+INFO: Setting soil for Lapis Lazuli Seeds to Tilled Garden Soil
+INFO: Setting soil for Ender Seeds to Tilled Garden Soil
+INFO: Setting soil for Nether Seeds to Tilled Garden Soil
+INFO: Setting soil for Experience Seeds to Tilled Garden Soil
+INFO: Setting soil for Blaze Seeds to Tilled Garden Soil
+INFO: Setting soil for Diamond Seeds to Tilled Garden Soil
+INFO: Setting soil for Emerald Seeds to Tilled Garden Soil
+INFO: Setting soil for Air Seeds to Tilled Garden Soil
+INFO: Setting soil for Water Seeds to Tilled Garden Soil
+INFO: Setting soil for Earth Seeds to Tilled Garden Soil
+INFO: Setting soil for Fire Seeds to Tilled Garden Soil
+INFO: Setting soil for Copper Seeds to Tilled Garden Soil
+INFO: Setting soil for Tin Seeds to Tilled Garden Soil
+INFO: Setting soil for Certus Quartz Seeds to Tilled Garden Soil
+INFO: Setting soil for Aluminium Seeds to Tilled Garden Soil
+INFO: Setting soil for Cobalt Seeds to Tilled Garden Soil
+INFO: Setting soil for Ardite Seeds to Tilled Garden Soil
+INFO: Setting soil for Infused Shard Seeds to Tilled Garden Soil
+INFO: Setting soil for Osmium Seeds to Tilled Garden Soil
+INFO: Setting soil for Sulfur Seeds to Tilled Garden Soil
+INFO: Setting soil for Creeper Soul Seeds to Tilled Garden Soil
+INFO: Setting soil for Skeleton Soul Seeds to Tilled Garden Soil
+INFO: Setting soil for Slime Soul Seeds to Tilled Garden Soil
+INFO: Setting soil for Spider Soul Seeds to Tilled Garden Soil
+INFO: Setting soil for Ghast Soul Seeds to Tilled Garden Soil
+INFO: Setting soil for Wither Soul Seeds to Tilled Garden Soil
+INFO: Setting soil for Fire Resistance Seeds to Tilled Garden Soil
+INFO: Setting soil for Water Breathing Seeds to Tilled Garden Soil
+INFO: Setting soil for Strength Seeds to Tilled Garden Soil
+INFO: Setting soil for Regeneration Seeds to Tilled Garden Soil
+INFO: Setting soil for Night Vision Seeds to Tilled Garden Soil
+INFO: Setting soil for Speed Seeds to Tilled Garden Soil
+INFO: Setting soil for item.agricraft:seedRutile.name to Tilled Garden Soil
+INFO: Setting soil for item.agricraft:seedNature.name to Tilled Garden Soil
+INFO: Setting soil for item.agricraft:seedAmber.name to Tilled Garden Soil
+INFO: Setting soil for item.agricraft:seedCinnabar.name to Tilled Garden Soil
+INFO: Setting soil for item.agricraft:seedImag.name to Tilled Garden Soil
+INFO: Setting soil for Mystical Red Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Yellow Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Blue Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Orange Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Purple Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Green Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Magenta Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Pink Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Lime Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Cyan Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Light Blue Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Black Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical White Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Gray Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Light Gray Flower Seeds to Garden Soil
+INFO: Setting soil for Mystical Brown Flower Seeds to Garden Soil
+INFO: Setting soil for Poppy Seeds to Garden Soil
+INFO: Setting soil for Dandelion Seeds to Garden Soil
+INFO: Setting soil for Blue Orchid Seeds to Garden Soil
+INFO: Setting soil for Allium Seeds to Garden Soil
+INFO: Setting soil for Daisy Seeds to Garden Soil
+INFO: Setting soil for White Tulip Seeds to Garden Soil
+INFO: Setting soil for Red Tulip Seeds to Garden Soil
+INFO: Setting soil for Pink Tulip Seeds to Garden Soil
+INFO: Setting soil for Orange Tulip Seeds to Garden Soil
+INFO: Setting soil for Shimmerleaf Seeds to Garden Soil
+INFO: Setting soil for Cinderpearl Seeds to Garden Soil
+INFO: Setting soil for Taint Root Seeds to Tainted Soil
+INFO: Setting soil for Water Artichoke Seeds to Water Pad
+INFO: Adding mutation 'Carrot Seeds = Seeds + Belladonna Seeds'
+INFO: Adding mutation 'Potato Seeds = Seeds + Belladonna Seeds'
+INFO: Adding mutation 'Barley Seeds = Seeds + Sugarcane Seeds'
+INFO: Adding mutation 'Cotton Seeds = Barley Seeds + Dandelion Seeds'
+INFO: Adding mutation 'Mandrake Seeds = Belladonna Seeds + Potato Seeds'
+INFO: Adding mutation 'Water Artichoke Seeds = Mandrake Seeds + Belladonna Seeds'
+INFO: Adding mutation 'Snowbell Seeds = Water Artichoke Seeds + Mandrake Seeds'
+INFO: Adding mutation 'Wolfsbane Seeds = Snowbell Seeds + Mandrake Seeds'
+INFO: Adding mutation 'Wormwood Seeds = Snowbell Seeds + Seeds'
+INFO: Setting base block requirement for seed Wormwood Seeds to Wispy Cotton (NEARBY)
+INFO: Adding mutation 'Garlic = Snowbell Seeds + Water Artichoke Seeds'
+INFO: Adding mutation 'Sweetcorn Seeds = Sugarcane Seeds + Barley Seeds'
+INFO: Adding mutation 'Cucumber Seeds = Sweetcorn Seeds + Melon Seeds'
+INFO: Adding mutation 'Chili Seeds = Sweetcorn Seeds + Cucumber Seeds'
+INFO: Adding mutation 'Blackberry Seeds = Carrot Seeds + Melon Seeds'
+INFO: Adding mutation 'Blueberry Seeds = Blackberry Seeds + Water Artichoke Seeds'
+INFO: Adding mutation 'Raspberry Seeds = Blackberry Seeds + Melon Seeds'
+INFO: Adding mutation 'Strawberry Seeds = Raspberry Seeds + Blueberry Seeds'
+INFO: Adding mutation 'Tomato Seeds = Blueberry Seeds + Chili Seeds'
+INFO: Adding mutation 'Grape Seeds = Blueberry Seeds + Pumpkin Seeds'
+INFO: Adding mutation 'item.agricraft:seedNature.name = Essence Seeds + Sugarcane Seeds'
+INFO: Setting brightness range of Nether Wart to [0, 16[
+INFO: Setting brightness range of Brown Mushroom Spores to [0, 16[
+INFO: Setting brightness range of Red Mushroom Spores to [0, 16[
+INFO: Adding mutation 'Taint Root Seeds = Cinderpearl Seeds + Shimmerleaf Seeds'
+INFO: Setting base block requirement for seed Taint Root Seeds to DEFAULT (NONE)
+INFO: Adding mutation 'Vishroom Spores = Red Mushroom Spores + Brown Mushroom Spores'
+INFO: Setting brightness range of Vishroom Spores to [0, 16[
+INFO: Setting base block requirement for seed Shimmerleaf Seeds to DEFAULT (NONE)
+INFO: Adding mutation 'Candelilla Seeds = Barley Seeds + Cactus Seeds'
+INFO: Removing Binding Recipe for Bound Blade
+INFO: Adding Binding Recipe for Bound Blade
+INFO: Removing Binding Recipe for Bound Pickaxe
+INFO: Adding Binding Recipe for Bound Pickaxe
+INFO: Removing Binding Recipe for Bound Shovel
+INFO: Adding Binding Recipe for Bound Shovel
+INFO: Removing Binding Recipe for Bound Axe
+INFO: Adding Binding Recipe for Bound Axe
+INFO: Removing 1 recipes
+INFO: Adding recipe for Blood Altar
+INFO: Removing Blood Altar Recipe for Blank Slate
+INFO: Adding Blood Altar Recipe for Blank Slate
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <AWWayofTime:sacrificialKnife>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Chain Helmet
+INFO: Removing 1 recipes
+INFO: Adding recipe for Chain Chestplate
+INFO: Removing 1 recipes
+INFO: Adding recipe for Chain Leggings
+INFO: Removing 1 recipes
+INFO: Adding recipe for Chain Boots
+INFO: Adding Blood Altar Recipe for Crimson Cult Helm
+INFO: Adding Blood Altar Recipe for Crimson Cult Chestplate
+INFO: Adding Blood Altar Recipe for Crimson Cult Greaves
+INFO: Adding Blood Altar Recipe for Crimson Cult Boots
+INFO: Removing assembly table recipe for Redstone Chipset
+INFO: Adding assembly table recipe for <BuildCraft|Silicon:redstoneChipset>
+INFO: Removing 4 recipes
+INFO: Adding recipe for Laser
+INFO: Removing 1 recipes
+INFO: Adding recipe for Assembly Table
+INFO: Removing 1 recipes
+INFO: Adding recipe for Integration Table
+INFO: Removing 1 recipes
+INFO: Adding recipe for Charging Table
+INFO: Removing 1 recipes
+INFO: Adding recipe for Programming Table
+INFO: Hiding tile.MagicCropEssence in NEI
+INFO: Hiding tile.MagicCropCoal in NEI
+INFO: Hiding tile.MagicCropDye in NEI
+INFO: Hiding tile.MagicCropRedstone in NEI
+INFO: Hiding tile.MagicCropGlowstone in NEI
+INFO: Hiding tile.MagicCropObsidian in NEI
+INFO: Hiding tile.MagicCropIron in NEI
+INFO: Hiding tile.MagicCropGold in NEI
+INFO: Hiding tile.MagicCropLapis in NEI
+INFO: Hiding tile.MagicCropEnder in NEI
+INFO: Hiding tile.MagicCropNether in NEI
+INFO: Hiding tile.MagicCropExperience in NEI
+INFO: Hiding tile.MagicCropBlaze in NEI
+INFO: Hiding tile.MagicCropDiamond in NEI
+INFO: Hiding tile.MagicCropEmerald in NEI
+INFO: Hiding tile.ElementCropAir in NEI
+INFO: Hiding tile.ElementCropWater in NEI
+INFO: Hiding tile.ElementCropEarth in NEI
+INFO: Hiding tile.ElementCropFire in NEI
+INFO: Hiding tile.ModMagicCropCopper in NEI
+INFO: Hiding tile.ModMagicCropTin in NEI
+INFO: Hiding tile.ModMagicCropSilver in NEI
+INFO: Hiding tile.ModMagicCropLead in NEI
+INFO: Hiding tile.ModMagicCropQuartz in NEI
+INFO: Hiding tile.ModMagicCropSapphire in NEI
+INFO: Hiding tile.ModMagicCropRuby in NEI
+INFO: Hiding tile.ModMagicCropPeridot in NEI
+INFO: Hiding tile.ModMagicCropAlumin in NEI
+INFO: Hiding tile.ModMagicCropForce in NEI
+INFO: Hiding tile.ModMagicCropCobalt in NEI
+INFO: Hiding tile.ModMagicCropArdite in NEI
+INFO: Hiding tile.ModMagicCropNickel in NEI
+INFO: Hiding tile.ModMagicCropPlatinum in NEI
+INFO: Hiding tile.ModMagicCropThaumcraftShard in NEI
+INFO: Hiding tile.ModMagicCropUranium in NEI
+INFO: Hiding tile.ModMagicCropOil in NEI
+INFO: Hiding tile.ModMagicCropRubber in NEI
+INFO: Hiding tile.ModMagicCropVinteum in NEI
+INFO: Hiding tile.ModMagicCropBlueTopaz in NEI
+INFO: Hiding tile.ModMagicCropChimerite in NEI
+INFO: Hiding tile.ModMagicCropMoonstone in NEI
+INFO: Hiding tile.ModMagicCropSunstone in NEI
+INFO: Hiding tile.ModMagicCropIridium in NEI
+INFO: Hiding tile.ModMagicCropYellorite in NEI
+INFO: Hiding tile.ModMagicCropOsmium in NEI
+INFO: Hiding tile.ModMagicCropManganese in NEI
+INFO: Hiding tile.ModMagicCropSulfur in NEI
+INFO: Hiding tile.ModMagicCropDarkiron in NEI
+INFO: Hiding tile.SoulCropCow in NEI
+INFO: Hiding tile.SoulCropCreeper in NEI
+INFO: Hiding tile.SoulCropMagma in NEI
+INFO: Hiding tile.SoulCropSkeleton in NEI
+INFO: Hiding tile.SoulCropSlime in NEI
+INFO: Hiding tile.SoulCropSpider in NEI
+INFO: Hiding tile.SoulCropGhast in NEI
+INFO: Hiding tile.SoulCropWither in NEI
+INFO: Hiding tile.PotionCropFire in NEI
+INFO: Hiding tile.PotionCropWater in NEI
+INFO: Hiding tile.PotionCropStrength in NEI
+INFO: Hiding tile.PotionCropRegen in NEI
+INFO: Hiding tile.PotionCropNight in NEI
+INFO: Hiding tile.PotionCropSpeed in NEI
+INFO: Hiding tile.CropBlackberry in NEI
+INFO: Hiding tile.CropBlueberry in NEI
+INFO: Hiding tile.CropChili in NEI
+INFO: Hiding tile.CropCucumber in NEI
+INFO: Hiding tile.CropGrape in NEI
+INFO: Hiding tile.CropRaspberry in NEI
+INFO: Hiding tile.CropStrawberry in NEI
+INFO: Hiding tile.CropSweetcorn in NEI
+INFO: Hiding tile.CropTomato in NEI
+INFO: Hiding tile.CropSugarCane in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.Charms.witherCharm in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.Charms.poisonCharm in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.Charms.fireCharm in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.Charms.waterCharm in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.Charms.baseCharm in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.SoulEssence.cow in NEI
+INFO: Hiding item.SoulEssence.magma in NEI
+INFO: Hiding item.ModCropEssence.silver in NEI
+INFO: Hiding item.ModCropEssence.lead in NEI
+INFO: Hiding item.ModCropEssence.sapphire in NEI
+INFO: Hiding item.ModCropEssence.ruby in NEI
+INFO: Hiding item.ModCropEssence.peridot in NEI
+INFO: Hiding item.ModCropEssence.force in NEI
+INFO: Hiding item.ModCropEssence.nickel in NEI
+INFO: Hiding item.ModCropEssence.platinum in NEI
+INFO: Hiding item.ModCropEssence.uranium in NEI
+INFO: Hiding item.ModCropEssence.oil in NEI
+INFO: Hiding item.ModCropEssence.rubber in NEI
+INFO: Hiding item.ModCropEssence.vinteum in NEI
+INFO: Hiding item.ModCropEssence.bluetopaz in NEI
+INFO: Hiding item.ModCropEssence.chimerite in NEI
+INFO: Hiding item.ModCropEssence.moonstone in NEI
+INFO: Hiding item.ModCropEssence.sunstone in NEI
+INFO: Hiding item.ModCropEssence.iridium in NEI
+INFO: Hiding item.ModCropEssence.yellorite in NEI
+INFO: Hiding item.ModCropEssence.manganese in NEI
+INFO: Hiding item.ModCropEssence.darkiron in NEI
+INFO: Adding Essence of Copper as NEI entry
+INFO: Adding Essence of Tin as NEI entry
+INFO: Adding Essence of Certus Quartz as NEI entry
+INFO: Adding Essence of Aluminium as NEI entry
+INFO: Adding Essence of Cobalt as NEI entry
+INFO: Adding Essence of Ardite as NEI entry
+INFO: Adding Essence of Shards as NEI entry
+INFO: Adding Essence of Osmium as NEI entry
+INFO: Adding Essence of Sulfur as NEI entry
+INFO: Hiding item.ModMagicSeedsSilver in NEI
+INFO: Hiding item.ModMagicSeedsLead in NEI
+INFO: Hiding item.ModMagicSeedsSapphire in NEI
+INFO: Hiding item.ModMagicSeedsRuby in NEI
+INFO: Hiding item.ModMagicSeedsPeridot in NEI
+INFO: Hiding item.ModMagicSeedsForce in NEI
+INFO: Hiding item.ModMagicSeedsNickel in NEI
+INFO: Hiding item.ModMagicSeedsPlatinum in NEI
+INFO: Hiding item.ModMagicSeedsUranium in NEI
+INFO: Hiding item.ModMagicSeedsOil in NEI
+INFO: Hiding item.ModMagicSeedsRubber in NEI
+INFO: Hiding item.ModMagicSeedsVinteum in NEI
+INFO: Hiding item.ModMagicSeedsBlueTopaz in NEI
+INFO: Hiding item.ModMagicSeedsChimerite in NEI
+INFO: Hiding item.ModMagicSeedsMoonstone in NEI
+INFO: Hiding item.ModMagicSeedsSunstone in NEI
+INFO: Hiding item.ModMagicSeedsIridium in NEI
+INFO: Hiding item.ModMagicSeedsYellorite in NEI
+INFO: Hiding item.ModMagicSeedsManganese in NEI
+INFO: Hiding item.ModMagicSeedsDarkiron in NEI
+INFO: Hiding item.SeedsSugarCane in NEI
+INFO: Hiding item.SoulSeedsMagma in NEI
+INFO: Hiding item.SoulSeedsCow in NEI
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <magicalcrops:magicalcrops_ElementEssence:1>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <magicalcrops:magicalcrops_ElementEssence:2>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <magicalcrops:magicalcrops_ElementEssence>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <magicalcrops:magicalcrops_ElementEssence:3>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <Quadrum:imagEssence>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <magicalcrops:magicalcrops_ExperienceDrop>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:oreBerries:5>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <minecraft:cobblestone>
+INFO: [ModTweaker2] Adding 1 Mariculture Casting Recipe(s) for <TConstruct:materials:2>
+INFO: [ModTweaker2] Adding 1 Mariculture Casting Recipe(s) for <TConstruct:Smeltery:4>
+INFO: [ModTweaker2] Adding 1 Mariculture Casting Recipe(s) for <Mekanism:Ingot:1>
+INFO: [ModTweaker2] Adding 1 Mariculture Casting Recipe(s) for <Mekanism:Ingot:3>
+INFO: [ModTweaker2] Adding 1 Mariculture Casting Recipe(s) for <Mekanism:BasicBlock>
+INFO: [ModTweaker2] Adding 1 Mariculture Casting Recipe(s) for <Mekanism:BasicBlock:4>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <minecraft:iron_ore>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <minecraft:gold_ore>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:GravelOre:1>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <minecraft:gold_ore>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <Mariculture:rocks:2>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:SearedBrick:5>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:GravelOre:4>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:SearedBrick:5>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:GravelOre:4>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <Mariculture:rocks:2>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <Mariculture:rocks:3>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <Mariculture:rocks:3>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <Forestry:resources:1>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <Forestry:resources:1>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:SearedBrick:3>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:SearedBrick:3>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:GravelOre:2>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:GravelOre:2>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <Mariculture:rocks:1>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <Mariculture:rocks:1>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <Mekanism:OreBlock:1>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <Mekanism:OreBlock:1>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <Forestry:resources:2>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <Forestry:resources:2>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:SearedBrick:4>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:SearedBrick:4>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:GravelOre:3>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <TConstruct:GravelOre:3>
+INFO: [ModTweaker2] Removing 1 Mariculture Crucible (Smelting) Recipe(s) for <Mekanism:OreBlock:2>
+INFO: [ModTweaker2] Adding 1 Mariculture Crucible (Smelting) Recipe(s) for <Mekanism:OreBlock:2>
+INFO: Failed to add compacting tier.
+INFO: Ore dictionary prefix 'crop' already registered in drawer conversion blacklist.
+INFO: Adding chest loot Essence of Iron to loot class dungeonChest
+INFO: Adding chest loot Essence of Copper to loot class dungeonChest
+INFO: Adding chest loot Essence of Tin to loot class dungeonChest
+INFO: Adding chest loot Essence of Coal to loot class dungeonChest
+INFO: Adding chest loot Essence of Nether to loot class dungeonChest
+INFO: Adding chest loot Essence of Blaze to loot class dungeonChest
+INFO: Adding chest loot Essence of Aluminium to loot class dungeonChest
+INFO: Adding chest loot Essence of Gold to loot class dungeonChest
+INFO: Adding chest loot Essence of Diamond to loot class dungeonChest
+INFO: Adding chest loot Essence of Emerald to loot class dungeonChest
+INFO: Adding chest loot Essence of Certus Quartz to loot class dungeonChest
+INFO: Adding chest loot Torn Page to loot class dungeonChest
+INFO: Adding chest loot Essence of Iron to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Copper to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Tin to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Coal to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Nether to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Blaze to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Aluminium to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Gold to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Diamond to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Emerald to loot class mineshaftCorridor
+INFO: Adding chest loot Essence of Certus Quartz to loot class mineshaftCorridor
+INFO: Adding chest loot Torn Page to loot class mineshaftCorridor
+INFO: Removing chest loot <Forestry:sapling> for loot type naturalistChest
+INFO: Removing chest loot <TConstruct:broadsword> for loot type bonusChest
+INFO: Removing chest loot <TConstruct:pickaxe> for loot type bonusChest
+INFO: Removing chest loot <TConstruct:hatchet> for loot type bonusChest
+INFO: Removing chest loot <TConstruct:broadsword> for loot type dungeonChest
+INFO: Removing chest loot <minecraft:iron_ingot> for loot type dungeonChest
+INFO: Removing chest loot <minecraft:redstone> for loot type dungeonChest
+INFO: Removing chest loot <Botania:manaResource> for loot type dungeonChest
+INFO: Removing chest loot <Railcraft:tool.steel.sword> for loot type dungeonChest
+INFO: Removing chest loot <Railcraft:armor.steel.helmet> for loot type dungeonChest
+INFO: Removing chest loot <Railcraft:armor.steel.plate> for loot type dungeonChest
+INFO: Removing chest loot <Railcraft:armor.steel.legs> for loot type dungeonChest
+INFO: Removing chest loot <Railcraft:armor.steel.boots> for loot type dungeonChest
+INFO: Removing chest loot <TravellersGear:simpleGear:6> for loot type dungeonChest
+INFO: Removing chest loot <Thaumcraft:ItemSwordThaumium> for loot type dungeonChest
+INFO: Removing chest loot <Thaumcraft:ItemAxeThaumium> for loot type dungeonChest
+INFO: Removing chest loot <Thaumcraft:ItemPickThaumium> for loot type dungeonChest
+INFO: Removing chest loot <Thaumcraft:ItemHoeThaumium> for loot type dungeonChest
+INFO: Removing chest loot <Thaumcraft:ItemLootBag:*> for loot type dungeonChest
+INFO: Removing chest loot <Thaumcraft:ItemResource:*> for loot type dungeonChest
+INFO: Removing chest loot <Thaumcraft:ItemSwordThaumium> for loot type mineshaftCorridor
+INFO: Removing chest loot <Thaumcraft:ItemAxeThaumium> for loot type mineshaftCorridor
+INFO: Removing chest loot <Thaumcraft:ItemPickThaumium> for loot type mineshaftCorridor
+INFO: Removing chest loot <Thaumcraft:ItemHoeThaumium> for loot type mineshaftCorridor
+INFO: Removing chest loot <TravellersGear:simpleGear:6> for loot type mineshaftCorridor
+INFO: Removing chest loot <TConstruct:broadsword> for loot type mineshaftCorridor
+INFO: Removing chest loot <Railcraft:tool.steel.shears> for loot type mineshaftCorridor
+INFO: Removing chest loot <Railcraft:tool.steel.shovel> for loot type mineshaftCorridor
+INFO: Removing chest loot <Railcraft:tool.steel.pickaxe> for loot type mineshaftCorridor
+INFO: Removing chest loot <Railcraft:tool.steel.axe> for loot type mineshaftCorridor
+INFO: Removing chest loot <Railcraft:ingot> for loot type mineshaftCorridor
+INFO: Removing chest loot <minecraft:iron_ingot> for loot type mineshaftCorridor
+INFO: Removing chest loot <minecraft:gold_ingot> for loot type mineshaftCorridor
+INFO: Removing chest loot <minecraft:redstone> for loot type mineshaftCorridor
+INFO: Removing chest loot <minecraft:diamond> for loot type mineshaftCorridor
+INFO: Removing chest loot <minecraft:iron_pickaxe> for loot type mineshaftCorridor
+INFO: Removing chest loot <Thaumcraft:ItemLootBag:*> for loot type mineshaftCorridor
+INFO: Removing chest loot <Thaumcraft:ItemResource:*> for loot type mineshaftCorridor
+INFO: Removing chest loot <appliedenergistics2:item.ItemMultiMaterial:*> for loot type mineshaftCorridor
+INFO: Removing chest loot <Railcraft:cube:2> for loot type mineshaftCorridor
+INFO: Removing chest loot <minecraft:hopper_minecart> for loot type mineshaftCorridor
+INFO: Removing chest loot <minecraft:dye:4> for loot type mineshaftCorridor
+INFO: Removing chest loot <minecraft:diamond> for loot type oceanFloorChest
+INFO: Removing chest loot <minecraft:gold_ingot> for loot type oceanFloorChest
+INFO: Removing chest loot <Mariculture:materials:2> for loot type oceanFloorChest
+INFO: Removing chest loot <minecraft:iron_ingot> for loot type pyramidDesertyChest
+INFO: Removing chest loot <minecraft:gold_ingot> for loot type pyramidDesertyChest
+INFO: Removing chest loot <minecraft:emerald> for loot type pyramidDesertyChest
+INFO: Removing chest loot <minecraft:diamond> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Railcraft:tool.steel.sword> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Railcraft:armor.steel.helmet> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Railcraft:armor.steel.plate> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Railcraft:armor.steel.legs> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Railcraft:armor.steel.boots> for loot type pyramidDesertyChest
+INFO: Removing chest loot <TravellersGear:simpleGear:6> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Thaumcraft:ItemSwordThaumium> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Thaumcraft:ItemAxeThaumium> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Thaumcraft:ItemPickThaumium> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Thaumcraft:ItemHoeThaumium> for loot type pyramidDesertyChest
+INFO: Removing chest loot <TConstruct:broadsword> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Thaumcraft:ItemLootBag:*> for loot type pyramidDesertyChest
+INFO: Removing chest loot <Thaumcraft:ItemResource:*> for loot type pyramidDesertyChest
+INFO: Removing chest loot <minecraft:iron_ingot> for loot type pyramidJungleChest
+INFO: Removing chest loot <minecraft:gold_ingot> for loot type pyramidJungleChest
+INFO: Removing chest loot <minecraft:emerald> for loot type pyramidJungleChest
+INFO: Removing chest loot <minecraft:diamond> for loot type pyramidJungleChest
+INFO: Removing chest loot <Railcraft:tool.steel.sword> for loot type pyramidJungleChest
+INFO: Removing chest loot <Railcraft:armor.steel.helmet> for loot type pyramidJungleChest
+INFO: Removing chest loot <Railcraft:armor.steel.plate> for loot type pyramidJungleChest
+INFO: Removing chest loot <Railcraft:armor.steel.legs> for loot type pyramidJungleChest
+INFO: Removing chest loot <Railcraft:armor.steel.boots> for loot type pyramidJungleChest
+INFO: Removing chest loot <TravellersGear:simpleGear:6> for loot type pyramidJungleChest
+INFO: Removing chest loot <Thaumcraft:ItemSwordThaumium> for loot type pyramidJungleChest
+INFO: Removing chest loot <Thaumcraft:ItemAxeThaumium> for loot type pyramidJungleChest
+INFO: Removing chest loot <Thaumcraft:ItemPickThaumium> for loot type pyramidJungleChest
+INFO: Removing chest loot <Thaumcraft:ItemHoeThaumium> for loot type pyramidJungleChest
+INFO: Removing chest loot <TConstruct:broadsword> for loot type pyramidJungleChest
+INFO: Removing chest loot <Thaumcraft:ItemLootBag:*> for loot type pyramidJungleChest
+INFO: Removing chest loot <Thaumcraft:ItemResource:*> for loot type pyramidJungleChest
+INFO: Removing chest loot <minecraft:iron_ingot> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:gold_ingot> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:diamond> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:iron_sword> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:iron_pickaxe> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:iron_helmet> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:iron_chestplate> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:iron_leggings> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:iron_boots> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:obsidian> for loot type villageBlacksmith
+INFO: Removing chest loot <minecraft:sapling> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:tool.steel.sword> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:armor.steel.helmet> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:armor.steel.plate> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:armor.steel.legs> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:armor.steel.boots> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:tool.steel.shears> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:tool.steel.shovel> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:tool.steel.pickaxe> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:tool.steel.axe> for loot type villageBlacksmith
+INFO: Removing chest loot <Railcraft:ingot> for loot type villageBlacksmith
+INFO: Removing chest loot <Thaumcraft:ItemResource:2> for loot type villageBlacksmith
+INFO: Removing chest loot <TravellersGear:simpleGear:6> for loot type strongholdLibrary
+INFO: Removing chest loot <TConstruct:broadsword> for loot type strongholdLibrary
+INFO: Adding recipe for Flint Pickaxe Head
+INFO: Adding recipe for Flint Axe Head
+INFO: Adding recipe for Flint Shovel Head
+INFO: Adding recipe for Wooden Tool Rod
+INFO: Adding recipe for Wooden Binding
+INFO: Removing 1 recipes
+INFO: Adding recipe for Crafting Table
+INFO: Adding recipe for Crafting Table
+INFO: Removing 1 recipes
+INFO: Adding recipe for Quest Book
+INFO: Adding furnace recipe for <Quadrum:deadWood>
+INFO: Removing 1 recipes
+INFO: Hiding item.pickaxeWood in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.pickaxeStone in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.shovelWood in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.shovelStone in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.hatchetWood in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.hoeWood in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.hoeStone in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.hoeIron in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.hoeDiamond in NEI
+INFO: Removing seeds <Natura:barley.seed>
+INFO: Removing seeds <magicalcrops:magicalcrops_MagicSeedsEssence>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsBlackberry>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsBlueberry>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsChili>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsCucumber>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsGrape>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsRaspberry>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsStrawberry>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsSweetcorn>
+INFO: Removing seeds <magicalcrops:magicalcrops_SeedsTomato>
+INFO: Removing seeds <witchery:seedsartichoke>
+INFO: Removing seeds <witchery:seedsmandrake>
+INFO: Removing seeds <witchery:seedssnowbell>
+INFO: Removing seeds <witchery:seedswolfsbane>
+INFO: Removing seeds <witchery:seedsbelladonna>
+INFO: Removing seeds <witchery:garlic>
+INFO: Removing 1 recipes
+INFO: Hiding item.wheatBag in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.barleyBag in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.cottonBag in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.potatoBag in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.carrotBag in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.boneBag in NEI
+INFO: Adding recipe for Red Mushroom Spores
+INFO: Adding recipe for Brown Mushroom Spores
+INFO: Adding seed entry <Botania:fertilizer>
+INFO: Adding seed entry <minecraft:clay_ball>
+INFO: Adding seed entry <Botania:grassSeeds>
+INFO: Adding seed entry <minecraft:dye:15>
+INFO: Adding seed entry <witchery:seedsbelladonna>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Lexica Botania
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Botania:fertilizer>
+INFO: Removing 16 recipes
+INFO: Adding recipe for Mana Spreader
+INFO: Removing Lexicon Page: botania.page.spreader5
+INFO: Adding Lexicon Page: botania.page.spreaderR
+INFO: Setting localization for the key: botania.page.spreaderR to Crafting the &1Mana Spreader&0
+INFO: Adding recipe for tile.deadWood.name
+INFO: Adding recipe for tile.blockSlate.name
+INFO: Adding recipe for Mutandis
+INFO: Removing 1 recipes
+INFO: Adding recipe for Chisel
+INFO: Removing 1 recipes
+INFO: Adding recipe for Empty Map
+INFO: Removing 6 recipes
+INFO: Adding recipe for Slotted Book
+INFO: Removing 1 recipes
+INFO: Adding recipe for Drafting Compass
+INFO: Removing 2 recipes
+INFO: Adding recipe for Magical Fertiliser
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Air Pump
+INFO: Removing 1 recipes
+INFO: Adding recipe for Crucible Furnace
+INFO: Removing 2 recipes
+INFO: Adding recipe for Piston
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Combustion Engine
+INFO: Adding recipe for Peat-fired Engine
+INFO: Adding recipe for Biogas Engine
+INFO: Adding recipe for Industrial Steam Engine
+INFO: Translating tile.engineWood.name to Wooden Engine
+INFO: Removing 1 furnace recipes
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace Recipe(s) for <Mariculture:rocks:3>
+INFO: Removing 1 furnace recipes
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace Recipe(s) for <Mekanism:OreBlock>
+INFO: Adding furnace recipe for <TConstruct:SearedBrick:5>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:egg>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:92>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:120>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:95>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:98>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:90>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:6415>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:6404>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:91>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:65>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:54>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:51>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:5>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:50>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:52>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:60>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:55>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <minecraft:spawn_egg:66>
+INFO: Adding recipe for White Dye
+INFO: Adding recipe for Floral Blue Powder
+INFO: Adding recipe for Floral Blue Powder
+INFO: Adding recipe for Floral Blue Powder
+INFO: Adding recipe for Floral Blue Powder
+INFO: Adding recipe for Floral Red Powder
+INFO: Adding recipe for Floral Red Powder
+INFO: Adding recipe for Floral Red Powder
+INFO: Adding recipe for Floral Red Powder
+INFO: Adding recipe for Floral Red Powder
+INFO: Adding recipe for Floral Red Powder
+INFO: Adding recipe for Floral Red Powder
+INFO: Adding recipe for Floral Red Powder
+INFO: Adding recipe for Floral Light Blue Powder
+INFO: Adding recipe for Floral Light Blue Powder
+INFO: Adding recipe for Floral Light Blue Powder
+INFO: Adding recipe for Floral Yellow Powder
+INFO: Adding recipe for Floral Yellow Powder
+INFO: Adding recipe for Floral Yellow Powder
+INFO: Adding recipe for Floral Yellow Powder
+INFO: Adding recipe for Floral Yellow Powder
+INFO: Adding recipe for Floral Yellow Powder
+INFO: Adding recipe for Floral Yellow Powder
+INFO: Adding recipe for Floral Purple Powder
+INFO: Adding recipe for Floral Purple Powder
+INFO: Adding recipe for Floral Purple Powder
+INFO: Adding recipe for Floral Green Powder
+INFO: Adding recipe for Floral Green Powder
+INFO: Adding recipe for Floral Green Powder
+INFO: Adding recipe for Floral Brown Powder
+INFO: Adding recipe for Floral Light Gray Powder
+INFO: Adding recipe for Floral Light Gray Powder
+INFO: Adding recipe for Floral Light Gray Powder
+INFO: Adding recipe for Floral Light Gray Powder
+INFO: Adding recipe for Floral Light Gray Powder
+INFO: Adding recipe for Floral Magenta Powder
+INFO: Adding recipe for Floral Magenta Powder
+INFO: Adding recipe for Floral Magenta Powder
+INFO: Adding recipe for Floral Magenta Powder
+INFO: Adding recipe for Floral Orange Powder
+INFO: Adding recipe for Floral Orange Powder
+INFO: Adding recipe for Floral Orange Powder
+INFO: Adding recipe for Floral Orange Powder
+INFO: Adding recipe for Floral Pink Powder
+INFO: Adding recipe for Floral Pink Powder
+INFO: Adding recipe for Floral Pink Powder
+INFO: Adding recipe for Floral Pink Powder
+INFO: Adding recipe for Floral Pink Powder
+INFO: Adding recipe for Floral Cyan Powder
+INFO: Adding recipe for Floral Black Powder
+INFO: Adding recipe for Floral Black Powder
+INFO: Adding recipe for Floral White Powder
+INFO: Adding recipe for Floral White Powder
+INFO: Adding recipe for Floral White Powder
+INFO: Adding recipe for Floral Lime Powder
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Forestry:beehives:1>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Forestry:beehives:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Forestry:beehives:3>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Forestry:beehives:4>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Forestry:beehives:5>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Forestry:beehives:6>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Forestry:beehives:7>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtraBees:hive>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtraBees:hive:1>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtraBees:hive:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <MagicBees:hive>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <MagicBees:hive:1>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <MagicBees:hive:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <MagicBees:hive:3>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <MagicBees:hive:4>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <MagicBees:hive:5>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <Forestry:beehives:3>
+INFO: [ModTweaker2] Adding 1 Forestry Thermionic Fabricator (Casting) Recipe(s) for <Quadrum:tubeCertus>
+INFO: [ModTweaker2] Adding 1 Forestry Carpenter Recipe(s) for <minecraft:sand>
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Forestry Carpenter Recipe(s) for <GardenStuff:bloomery_furnace>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsEssence>
+INFO: Removing 0 recipes
+INFO: Adding recipe for Osmium Ore
+INFO: Adding recipe for Certus Quartz Crystal
+INFO: Removing 1 recipes
+INFO: Adding recipe for item.enderPortal.name
+INFO: Adding tooltip for <Quadrum:enderPortal>: minetweaker.mc1710.formatting.FormattedString@2adb675d
+INFO: Removing 2 recipes
+INFO: Adding recipe for Weak Infusion Stone
+INFO: Removing 6 recipes
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_InfusionStone:1>
+INFO: Removing 3 recipes
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_InfusionStone:2>
+INFO: Removing 14 recipes
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_InfusionStone:3>
+INFO: Removing 2 recipes
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_InfusionStone:4>
+INFO: Removing 2 recipes
+INFO: Hiding item.ArmourMaterials.infusedDiamond in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.ArmourMaterials.infusedIngot in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.ArmourMaterials.infusedFeather in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.ArmourMaterials.infusedString in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.EssenceOrb in NEI
+INFO: Removing 20 recipes
+INFO: Removing 32 recipes
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedIngotHelmet in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedIngotPlatebody in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedIngotLeggings in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedIngotBoots in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedHelmet in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedPlatebody in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedLeggings in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedBoots in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedHelmetEpic in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedPlatebodyEpic in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedLeggingsEpic in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.infusedBootsEpic in NEI
+INFO: Removing 0 recipes
+INFO: Hiding item.infusedHelmetEpicFlight in NEI
+INFO: Removing 0 recipes
+INFO: Hiding item.infusedPlatebodyEpicFlight in NEI
+INFO: Removing 0 recipes
+INFO: Hiding item.infusedLeggingsEpicFlight in NEI
+INFO: Removing 0 recipes
+INFO: Hiding item.infusedBootsEpicFlight in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT1Pickaxe in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT1Sword in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT1Axe in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT1Shovel in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT2Pickaxe in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT2Sword in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT2Axe in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT2Shovel in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT3Pickaxe in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT3Sword in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT3Axe in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT3Shovel in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT3Hoe in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.InfusedT3Bow in NEI
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bone
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 6 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Cactus Green
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Magical Food
+INFO: Adding recipe for Rutile Ore
+INFO: Adding recipe for Amber Bearing Stone
+INFO: Adding recipe for Cinnabar Ore
+INFO: Adding recipe for Constraint Metal Ore
+INFO: Adding recipe for Resonant Crystal
+INFO: Adding recipe for Low-purity Imag Crystal
+INFO: Adding recipe for Imag Silicon Ore
+INFO: Adding recipe for Imag Phase Liquid Unit
+INFO: Adding recipe for Necrotic Bone
+INFO: Adding recipe for Creeper Heart
+INFO: Adding recipe for Limestone
+INFO: Adding recipe for Marble
+INFO: Adding recipe for Granite
+INFO: Adding recipe for Diorite
+INFO: Adding recipe for Andesite
+INFO: Adding recipe for Gravel
+INFO: Adding recipe for Quarried Stone
+INFO: Adding recipe for Abyssal Stone
+INFO: Adding recipe for Cracked Sand
+INFO: Adding recipe for Red Rock
+INFO: Adding recipe for Cloud
+INFO: Adding recipe for Heat Sand
+INFO: Adding recipe for Tainted Soil
+INFO: Adding recipe for Packed Ice
+INFO: Adding recipe for Red Sand
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsIron>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsCoal>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsDye>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsEnder>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsCopper>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsTin>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsNether>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsBlaze>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ElementSeedsFire>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ElementSeedsWater>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ElementSeedsAir>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ElementSeedsEarth>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsObsidian>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsAlumin>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsGold>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_SoulSeedsSkeleton>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsExperience>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsRedstone>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsGlowstone>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsLapis>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsDiamond>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_MagicSeedsEmerald>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsThaumcraftShard>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_SoulSeedsCreeper>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_SoulSeedsSpider>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_PotionSeedsSpeed>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_PotionSeedsRegen>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <AgriCraft:seedRutile>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <AgriCraft:seedAmber>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <AgriCraft:seedCinnabar>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsOsmium>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsCobalt>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsArdite>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsQuartz>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_ModMagicSeedsSulfur>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_SoulSeedsSlime>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_SoulSeedsGhast>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_SoulSeedsWither>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_PotionSeedsFire>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_PotionSeedsWater>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_PotionSeedsNight>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <magicalcrops:magicalcrops_PotionSeedsStrength>
+INFO: [ModTweaker2] Adding 1 Mekanism Metallurgic Infuser Recipe(s) for <AgriCraft:seedImag>
+INFO: [ModTweaker2] Adding 1 Mekanism Metallurgic Infuser Recipe(s) for <AgriCraft:seedImag>
+INFO: [ModTweaker2] Adding 1 Mekanism Metallurgic Infuser Recipe(s) for <AgriCraft:seedImag>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Steel Casing
+INFO: [ModTweaker2] Removing 1 Mekanism Metallurgic Infuser Recipe(s) for <Mekanism:EnrichedIron>
+INFO: [ModTweaker2] Adding 1 Mekanism Metallurgic Infuser Recipe(s) for <Mekanism:EnrichedIron>
+INFO: [ModTweaker2] Adding 1 Mekanism Metallurgic Infuser Recipe(s) for <GardenStuff:wrought_iron_ingot>
+INFO: [ModTweaker2] Adding 1 Mekanism Metallurgic Infuser Recipe(s) for <GardenStuff:wrought_iron_ingot>
+INFO: [ModTweaker2] Adding 1 Mekanism Crusher Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:46>
+INFO: [ModTweaker2] Removing 1 Mekanism Metallurgic Infuser Recipe(s) for <Mekanism:ControlCircuit>
+INFO: Adding recipe for Basic Control Circuit
+INFO: Removing 1 recipes
+INFO: Adding recipe for Advanced Control Circuit
+INFO: Removing 1 recipes
+INFO: Adding recipe for Elite Control Circuit
+INFO: Removing 1 recipes
+INFO: Adding recipe for Ultimate Control Circuit
+INFO: Removing 1 recipes
+INFO: Adding recipe for Speed Upgrade
+INFO: Removing 1 recipes
+INFO: Adding recipe for Energy Upgrade
+INFO: Removing 1 recipes
+INFO: Adding recipe for Filter Upgrade
+INFO: Removing 1 recipes
+INFO: Adding recipe for Gas Upgrade
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Solar Panel
+INFO: Adding recipe for Solar Generator
+INFO: Adding recipe for Advanced Solar Generator
+INFO: Removing 1 recipes
+INFO: Adding recipe for Wind Generator
+INFO: Removing 1 recipes
+INFO: Adding recipe for Gas-Burning Generator
+INFO: Removing 1 recipes
+INFO: Adding recipe for Bio-Generator
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for Basic Smelting Factory
+INFO: Adding recipe for Advanced Smelting Factory
+INFO: Adding recipe for Elite Smelting Factory
+INFO: Adding recipe for Basic Enriching Factory
+INFO: Adding recipe for Advanced Enriching Factory
+INFO: Adding recipe for Elite Enriching Factory
+INFO: Adding recipe for Basic Crushing Factory
+INFO: Adding recipe for Advanced Crushing Factory
+INFO: Adding recipe for Elite Crushing Factory
+INFO: Adding recipe for Basic Compressing Factory
+INFO: Adding recipe for Advanced Compressing Factory
+INFO: Adding recipe for Elite Compressing Factory
+INFO: Adding recipe for Basic Combining Factory
+INFO: Adding recipe for Advanced Combining Factory
+INFO: Adding recipe for Elite Combining Factory
+INFO: Adding recipe for Basic Purifying Factory
+INFO: Adding recipe for Advanced Purifying Factory
+INFO: Adding recipe for Elite Purifying Factory
+INFO: Adding recipe for Basic Injecting Factory
+INFO: Adding recipe for Advanced Injecting Factory
+INFO: Adding recipe for Elite Injecting Factory
+INFO: Adding recipe for Basic Infusing Factory
+INFO: Adding recipe for Advanced Infusing Factory
+INFO: Adding recipe for Elite Infusing Factory
+INFO: Removing 1 recipes
+INFO: Adding recipe for Basic Tier Installer
+INFO: Removing 1 recipes
+INFO: Adding recipe for Advanced Tier Installer
+INFO: Removing 1 recipes
+INFO: Adding recipe for Elite Tier Installer
+INFO: Removing 1 recipes
+INFO: Adding recipe for Ultimate Tier Installer
+INFO: Removing 4 recipes
+INFO: Adding recipe for Basic Energy Cube
+INFO: Adding recipe for Advanced Energy Cube
+INFO: Adding recipe for Elite Energy Cube
+INFO: Adding recipe for Ultimate Energy Cube
+INFO: Adding Basic Energy Cube as NEI entry
+INFO: Adding Advanced Energy Cube as NEI entry
+INFO: Adding Elite Energy Cube as NEI entry
+INFO: Adding Ultimate Energy Cube as NEI entry
+INFO: Adding Creative Energy Cube as NEI entry
+INFO: Removing 0 recipes
+INFO: Adding recipe for Metallurgic Infuser
+INFO: Removing 0 recipes
+INFO: Adding recipe for Enrichment Chamber
+INFO: Removing 0 recipes
+INFO: Adding recipe for Osmium Compressor
+INFO: Removing 0 recipes
+INFO: Adding recipe for Combiner
+INFO: Removing 0 recipes
+INFO: Adding recipe for Crusher
+INFO: Removing 0 recipes
+INFO: Adding recipe for Purification Chamber
+INFO: Removing 0 recipes
+INFO: Adding recipe for Energized Smelter
+INFO: Removing 0 recipes
+INFO: Adding recipe for Precision Sawmill
+INFO: Removing 0 recipes
+INFO: Adding recipe for Chemical Injection Chamber
+INFO: Removing 0 recipes
+INFO: Adding recipe for Electric Pump
+INFO: Removing 0 recipes
+INFO: Adding recipe for Rotary Condensentrator
+INFO: Removing 1 recipes
+INFO: Adding recipe for Energy Tablet
+INFO: Removing 4 recipes
+INFO: Adding recipe for Basic Gas Tank
+INFO: Adding recipe for Advanced Gas Tank
+INFO: Adding recipe for Elite Gas Tank
+INFO: Adding recipe for Ultimate Gas Tank
+INFO: Removing 0 recipes
+INFO: Adding recipe for Basic Fluid Tank
+INFO: Adding recipe for Advanced Fluid Tank
+INFO: Adding recipe for Elite Fluid Tank
+INFO: Adding recipe for Ultimate Fluid Tank
+INFO: Removing 0 recipes
+INFO: Adding recipe for Chemical Oxidizer
+INFO: Removing 0 recipes
+INFO: Adding recipe for Chemical Infuser
+INFO: Removing 0 recipes
+INFO: Adding recipe for Chemical Dissolution Chamber
+INFO: Removing 0 recipes
+INFO: Adding recipe for Chemical Washer
+INFO: Removing 0 recipes
+INFO: Adding recipe for Chemical Crystallizer
+INFO: Removing 0 recipes
+INFO: Adding recipe for Electrolytic Separator
+INFO: Removing 1 recipes
+INFO: Adding recipe for Electrolytic Core
+INFO: Removing 1 recipes
+INFO: Adding recipe for Teleportation Core
+INFO: Removing 0 recipes
+INFO: Adding recipe for Pressurized Reaction Chamber
+INFO: Removing 0 recipes
+INFO: Adding recipe for Seismic Vibrator
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Dynamic Tank
+INFO: Adding recipe for Structural Glass
+INFO: Adding recipe for Dynamic Valve
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Thermal Evaporation Controller
+INFO: Adding recipe for Thermal Evaporation Valve
+INFO: Adding recipe for Thermal Evaporation Block
+INFO: Removing 0 recipes
+INFO: Adding recipe for Digital Miner
+INFO: Removing 0 recipes
+INFO: Adding recipe for Fluidic Plenisher
+INFO: Removing 0 recipes
+INFO: Adding recipe for Laser
+INFO: Removing 0 recipes
+INFO: Adding recipe for Laser Amplifier
+INFO: Removing 0 recipes
+INFO: Adding recipe for Solar Neutron Activator
+INFO: Removing 1 recipes
+INFO: Adding recipe for Induction Casing
+INFO: Removing 0 recipes
+INFO: Adding recipe for Fuelwood Heater
+INFO: Removing 0 recipes
+INFO: Adding recipe for Resistive Heater
+INFO: Removing 1 recipes
+INFO: Adding recipe for Superheating Element
+INFO: Removing 1 recipes
+INFO: Adding recipe for Turbine Casing
+INFO: Removing 1 recipes
+INFO: Adding recipe for Electromagnetic Coil
+INFO: Removing 1 recipes
+INFO: Adding recipe for Rotational Complex
+INFO: Removing 1 recipes
+INFO: Adding recipe for Boiler Casing
+INFO: Removing 1 recipes
+INFO: Adding recipe for Pressure Disperser
+INFO: Removing 0 recipes
+INFO: Adding recipe for Formulaic Assemblicator
+INFO: Adding recipe for item.ml_parchmentJapaneseComplete.name
+INFO: Adding recipe for item.ml_parchmentMayanComplete.name
+INFO: Adding recipe for item.ml_marchmentIndianComplete.name
+INFO: Adding recipe for item.ml_marchmentComplete.name
+INFO: Adding recipe for item.ml_villageWand.name
+INFO: Translating item.ml_vine.name to Wine Grapes
+INFO: Adding Water Clay Bucket to ore dictionary entry bucketWater
+INFO: Adding Water Bucket to ore dictionary entry bucketWater
+INFO: Adding Lava Clay Bucket to ore dictionary entry bucketLava
+INFO: Adding Lava Bucket to ore dictionary entry bucketLava
+INFO: Removing 1 recipes
+INFO: Adding recipe for Sand
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for item.upgrade.structural.1.name
+INFO: Adding recipe for item.upgrade.structural.3.name
+INFO: Adding recipe for item.upgrade.structural.6.name
+INFO: Adding recipe for Miniature Green Heart
+INFO: Adding recipe for Green Heart Canister
+INFO: [ModTweaker2] Removing 2 Botania Mana Infusion Recipe(s) for <minecraft:redstone>, <minecraft:redstone>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <minecraft:redstone>
+INFO: [ModTweaker2] Removing 3 Botania Mana Infusion Recipe(s) for <minecraft:glowstone_dust>, <minecraft:glowstone_dust>, <minecraft:glowstone_dust>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <minecraft:glowstone_dust>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <minecraft:glowstone_dust>
+INFO: Removing Lexicon Page: botania.page.manaAlchemy19
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Oak Wood Slab
+INFO: Adding recipe for Oak Wood Slab
+INFO: Adding recipe for Alder Slab
+INFO: Adding recipe for Hawthorn Slab
+INFO: Adding recipe for Rowan Slab
+INFO: Adding furnace recipe for <NetherOres:tile.netherores.ore.1:5>
+INFO: Removing 1 furnace recipes
+INFO: Adding furnace recipe for <NetherOres:tile.netherores.ore.1:14>
+INFO: Adding Barley to ore dictionary entry cropBarley
+INFO: Adding Cotton to ore dictionary entry cropCotton
+INFO: Adding Cotton Seeds to ore dictionary entry listAllseed
+INFO: Adding item 'Barley' to compost table with processing time '150'
+INFO: Adding item 'Belladonna Flower' to compost table with processing time '150'
+INFO: Adding item 'Mandrake Root' to compost table with processing time '150'
+INFO: Adding item 'Water Artichoke Globe' to compost table with processing time '150'
+INFO: Adding item 'Wolfsbane' to compost table with processing time '150'
+INFO: Adding item 'Wormwood' to compost table with processing time '150'
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Barley Flour
+INFO: Adding recipe for Wheat Flour
+INFO: Removing 1 recipes
+INFO: Adding recipe for Natura Pylon
+INFO: Removing Lexicon Page: botania.page.aIntro3
+INFO: Adding Lexicon Page: botania.page.naturaPylonR
+INFO: Setting localization for the key: botania.page.naturaPylonR to Creating &1Natura Pylons&0
+INFO: Adding furnace recipe for <ore:plankWood>
+INFO: Adding Group: burntplanks
+INFO: Adding Variation: <Quadrum:singedPlank>
+INFO: Adding Variation: <Quadrum:charredPlank>
+INFO: Adding Variation: <Quadrum:stonebrickburnt>
+INFO: Adding Variation: <Quadrum:stonebricktrans>
+INFO: Adding Variation: <Quadrum:stonebrickcrackedburnt>
+INFO: Adding Variation: <Quadrum:stonebrickcrackedtrans>
+INFO: Adding Variation: <Quadrum:stoneburnt>
+INFO: Adding Variation: <Quadrum:stonetransition>
+INFO: Adding Variation: <Quadrum:cobblestoneburnt>
+INFO: Adding Variation: <Quadrum:CobblestoneTrans>
+INFO: Adding recipe for tile.singedSlab.name
+INFO: Adding recipe for tile.singedPlank.name
+INFO: Adding recipe for tile.singedStair.name
+INFO: Adding Variation: <Mariculture:limestone:1>
+INFO: Adding Variation: <Mariculture:limestone:2>
+INFO: Adding Variation: <Mariculture:limestone:3>
+INFO: Adding Variation: <Mariculture:limestone:4>
+INFO: Adding Variation: <Mariculture:limestone:5>
+INFO: Adding Variation: <Mariculture:limestone:6>
+INFO: Adding Variation: <Mariculture:limestone:7>
+INFO: Adding Variation: <Mariculture:limestone:10>
+INFO: Adding tooltip for <Quadrum:secret1>: minetweaker.mc1710.formatting.FormattedMarkupString@159f2d8
+INFO: Adding tooltip for <Quadrum:secret2>: minetweaker.mc1710.formatting.FormattedMarkupString@68f31bea
+INFO: Adding tooltip for <Quadrum:secret3>: minetweaker.mc1710.formatting.FormattedMarkupString@75d67e4b
+INFO: Removing 1 recipes
+INFO: Adding recipe for Gold Ring
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace Recipe(s) for <Quadrum:refinedSteel>
+INFO: Adding Infernal Blastfurnace Recipe for item.refinedSteel.name
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace Recipe(s) for <Quadrum:refinedSteel>
+INFO: Adding Infernal Blastfurnace Recipe for item.refinedSteel.name
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace Recipe(s) for <Quadrum:refinedSteel>
+INFO: Adding Infernal Blastfurnace Recipe for item.refinedSteel.name
+INFO: [ModTweaker2] Removing 26 Railcraft Blast Furnace Recipe(s) for <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>, <Railcraft:ingot>
+INFO: [ModTweaker2] Removing 3 Railcraft Blast Furnace Recipe(s) for <Railcraft:nugget:1>, <Railcraft:nugget:1>, <Railcraft:nugget:1>
+INFO: [ModTweaker2] Removing 1 Railcraft Blast Furnace Recipe(s) for <Railcraft:cube:2>
+INFO: Removing Infernal Blastfurnace Recipe for Steel Ingot
+INFO: Removing Infernal Blastfurnace Recipe for Block of Steel
+INFO: Removing Infernal Blastfurnace Recipe for Steel Ingot
+INFO: Removing Infernal Blastfurnace Recipe for Block of Steel
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace Recipe(s) for <Railcraft:ingot>
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace Recipe(s) for <Railcraft:cube:2>
+INFO: [ModTweaker2] Adding 1 Railcraft Blast Furnace Recipe(s) for <Railcraft:nugget:1>
+INFO: Adding Infernal Blastfurnace Recipe for Steel Ingot
+INFO: Adding Infernal Blastfurnace Recipe for Block of Steel
+INFO: Adding Infernal Blastfurnace Recipe for Steel Nugget
+INFO: Removing Infernal Blastfurnace Recipe for Titanium Ingot
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Forestry:sturdyMachine>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Forestry:sturdyMachine>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Forestry:sturdyMachine>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Mariculture:crafting:7>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Mariculture:crafting:7>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Mariculture:crafting:17>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Quadrum:plateOsmium>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Quadrum:plateArdite>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Quadrum:plateCobalt>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Quadrum:plateGlowstone>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Rolling Machine
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Coke Oven Brick
+INFO: Adding recipe for Sandy Block
+INFO: Removing 2 recipes
+INFO: Adding recipe for Blast Furnace Brick
+INFO: [ModTweaker2] Removing 1 Railcraft Rolling Machine Recipe(s) for <Railcraft:machine.delta>
+INFO: [ModTweaker2] Adding 1 Railcraft Rolling Machine Recipe(s) for <Railcraft:machine.delta>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Water Tank Siding
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for World Anchor
+INFO: Adding recipe for Personal Anchor
+INFO: [ModTweaker2] Removing 1 Rock Crusher Recipe(s) for <Railcraft:machine.alpha>
+INFO: [ModTweaker2] Removing 1 Rock Crusher Recipe(s) for <Railcraft:machine.alpha:2>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Redstone Flux Cart
+INFO: Removing 1 recipes
+INFO: Adding recipe for Redstone Flux Loader
+INFO: Removing 1 recipes
+INFO: Adding recipe for Redstone Flux Unloader
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Botania:grassSeeds:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Botania:grassSeeds:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Botania:grassSeeds:2>
+INFO: Adding recipe for Acacia Sapling
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_1>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_1:1>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_1:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_1:3>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_1:4>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_1:5>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_1:6>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_1:7>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_2:1>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_2:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_2:3>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <ExtrabiomesXL:saplings_2:4>
+INFO: Adding recipe for Darkwood Sapling
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:florasapling>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:florasapling:1>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:florasapling:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:florasapling:3>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:florasapling:4>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:florasapling:5>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:florasapling:6>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:florasapling:7>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:Rare Sapling>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:Rare Sapling:1>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:Rare Sapling:2>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:Rare Sapling:3>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Natura:Rare Sapling:4>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:sand:1>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Mariculture:metals:2>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:rocks:3>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Mariculture:materials:37>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Mariculture:materials:36>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.axe.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.battlesign.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.frypan.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.pickaxe.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.shovel.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.sword.blade>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.binding>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.chisel.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.crossbar>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.knife.blade>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.large.guard>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.medium.guard>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.tool.rod>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.full.guard>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.tough.binding>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.tough.rod>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.excavator.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.hammer.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.large.sword.blade>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.large.plate>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.lumberaxe.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Mariculture:titanium.scythe.head>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <magicalcrops:magicalcrops_ExperienceDrop>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <TConstruct:oreBerries:5>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <magicalcrops:magicalcrops_ElementEssence:1>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <magicalcrops:magicalcrops_ElementEssence>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <magicalcrops:magicalcrops_ElementEssence:2>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <magicalcrops:magicalcrops_ElementEssence:3>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Quadrum:imagEssence>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <Thaumcraft:blockCustomPlant>
+INFO: [ModTweaker2] Adding 1 Botania Rune Altar Recipe(s) for <Thaumcraft:blockCustomPlant:1>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Table
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:blockCustomOre:7>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:blockCustomOre>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:ItemResource:12>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:ItemResource:11>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:ItemHelmetCultistPlate>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:ItemHelmetCultistRobe>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:ItemChestplateCultistRobe>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:ItemChestplateCultistPlate>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:ItemLeggingsCultistRobe>
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Thaumcraft:ItemLeggingsCultistPlate>
+INFO: Refreshing Research: TABLE
+INFO: Orphaning Research: TRANSLEAD
+INFO: Removing Research: TRANSLEAD
+INFO: Removing 1 recipes
+INFO: Adding recipe for Thaumometer
+INFO: Refreshing Research: THAUMOMETER
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <Thaumcraft:blockCosmeticSolid>
+INFO: Registering Research: TOTEM
+INFO: Setting localization for the key: tc.research_name.TOTEM to Obsidian Totems
+INFO: Setting localization for the key: tc.research_text.TOTEM to [RG]Structurally Sound
+INFO: Adding Prerequisites to TOTEM
+INFO: Adding Research Page to TOTEM
+INFO: Setting localization for the key: totem.research_page.one to You recall encountering strange pillars of obsidian tiles which housed only the most sinister of aura nodes. So sinister in fact, that they would warp the obsidian, giving it some very peculiar properties. <BR> Now, however, you think you've found a way to recreate these obsidian totems with your crucible.
+INFO: Adding Research Page to TOTEM
+INFO: Adding 4 warp to TOTEM
+INFO: Adding 4 warp to Obsidian Totem
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <AgriCraft:seedCinderpearl>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Crucible Recipe(s) for <AgriCraft:seedShimmerleaf>
+INFO: Registering Research: LEAFY
+INFO: Setting localization for the key: tc.research_name.LEAFY to Thaumic Flowers
+INFO: Setting localization for the key: tc.research_text.LEAFY to [RG]Delicate Blooms
+INFO: Adding Prerequisites to LEAFY
+INFO: Adding Research Page to LEAFY
+INFO: Setting localization for the key: leafy.research_page.info to Small delicate flowers coveted by Thaumaturges once could be found all around the world. Now you think you've found a means to recreate them.
+INFO: Adding Research Page to LEAFY
+INFO: Adding Research Page to LEAFY
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Thaumaturges Razor
+INFO: Clearing Research Pages from DAGGER
+INFO: Adding Research Page to DAGGER
+INFO: Setting localization for the key: dagger.research_page.info to Collecting blood used to be a chore, but not anymore. Your knowledge of thaumaturgy has led you to discover the ability to make your time at the Blood Altar a little shorter.
+INFO: Adding Research Page to DAGGER
+INFO: Adding 1 warp to DAGGER
+INFO: Adding 1 warp to Thaumaturges Razor
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for <arcanearteries:arcanearteries thaumicKnife>
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Sinister Node in a Jar
+INFO: Registering Research: SINISTERNODE
+INFO: Setting localization for the key: tc.research_name.SINISTERNODE to Sinister Nodes
+INFO: Setting localization for the key: tc.research_text.SINISTERNODE to [RG]Darkened Aura
+INFO: Adding Prerequisites to SINISTERNODE
+INFO: Adding Prerequisites to SINISTERNODE
+INFO: Adding Prerequisites to SINISTERNODE
+INFO: Adding Prerequisites to SINISTERNODE
+INFO: Adding Research Page to SINISTERNODE
+INFO: Setting localization for the key: sinisternode.research_page.info to A common motif with the old obsidian totems was the presence of a sinister node, dark enough to corrupt the world around it. Maybe there is something to be learned from these, and recreating them syntheticially may prove insightful.
+INFO: Adding Research Page to SINISTERNODE
+INFO: Adding 3 warp to SINISTERNODE
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Eldritch Obelisk Placer
+INFO: Registering Research: BUILDOBELISK
+INFO: Setting localization for the key: tc.research_name.BUILDOBELISK to Eldritch Obelisks
+INFO: Setting localization for the key: tc.research_text.BUILDOBELISK to [RG]Watch where you tread
+INFO: Adding Prerequisites to BUILDOBELISK
+INFO: Adding Prerequisites to BUILDOBELISK
+INFO: Adding Research Page to BUILDOBELISK
+INFO: Setting localization for the key: buildobelisk.research_page.info to It's coming back to you now. The so called crimson cult was often found clustered around strange obelisks in the distant past. You don't know what might have happened to these structures or the cultists now; perhaps one may be found if you were to wander far enough, but its hard to say. <LINE>You can however vaguely remember what they were like, and by applying your knowledge of thaumatrugy, may just be able to recreate them. You feel like you're missing the most sinister part of the construction necessary for it to function however...
+INFO: Adding Research Page to BUILDOBELISK
+INFO: Adding 4 warp to BUILDOBELISK
+INFO: Adding 4 warp to Eldritch Obelisk Placer
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Crimson Rites
+INFO: Registering Research: CRIMSONBOOK
+INFO: Setting localization for the key: tc.research_name.CRIMSONBOOK to Occult Knowledge
+INFO: Setting localization for the key: tc.research_text.CRIMSONBOOK to [RG]Do you really want to know?
+INFO: Adding Prerequisites to CRIMSONBOOK
+INFO: Adding Research Page to CRIMSONBOOK
+INFO: Setting localization for the key: crimsonbook.research_page.info to Infusing Chain armour with blood transformed it into almost ceremonious armour. More curiously this triggered a memory from before of a dark cult that instilled terror across the land. Dare you try and recover their knowledge which was lost?
+INFO: Adding Research Page to CRIMSONBOOK
+INFO: Adding 3 warp to CRIMSONBOOK
+INFO: Adding 3 warp to Crimson Rites
+INFO: Removing 1 recipes
+INFO: Adding recipe for Attuned Stone
+INFO: [ModTweaker2] Adding 1 Botania Mana Infusion Recipe(s) for <Botania:manaResource:1>
+INFO: Removing 1 recipes
+INFO: Adding recipe for Witchcraft: Herbology
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command gases
+INFO: Adding minetweaker command mekanism
+INFO: Adding minetweaker command railcraft
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList

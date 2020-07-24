@@ -1,0 +1,12 @@
+//Put in this file any configuration from config.txt you want to change
+//That way they will not get overwritten when you update
+//For example, to play in French, put "language=fr" on a seperate line (without the quotes)
+//Display Starting Text; Display the Millénaire version and Creation Quest status at startup.
+display_start=false
+
+//Bonus Code; Code to enable the bonus. Fetched from internet automatically if a connection is possible.
+bonus_code=
+
+//Chunk Loaded Radius; Radius around the player in which Millénaire will attempt to keep villages' chunks loaded. Default: 200.
+keep_active_radius=0
+

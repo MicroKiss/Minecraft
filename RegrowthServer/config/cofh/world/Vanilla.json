@@ -1,0 +1,52 @@
+{
+    "dirt": {
+        "template": "uniform",
+        "block": "dirt",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 20,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "gravel": {
+        "template": "uniform",
+        "block": "gravel",
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "quartz": {
+        "template": "uniform",
+        "block": "quartz_ore",
+        "material": "minecraft:netherrack",
+        "clusterSize": 13,
+        "numClusters": 16,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "dictionary", "entry": "NETHER"}
+        ],
+        "dimensionRestriction": "none",
+        "dimensions": []
+    }
+}

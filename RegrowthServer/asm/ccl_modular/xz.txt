@@ -1,0 +1,810 @@
+// class version 50.0 (50)
+// access flags 0x21
+public class xz extends yg  {
+
+  // compiled from: SourceFile
+
+  // access flags 0x2
+  private I bp
+
+  // access flags 0x2
+  private I bq
+
+  // access flags 0x2
+  private I br
+
+  // access flags 0x2
+  private I bs
+
+  // access flags 0x1
+  public <init>(Lahb;)V
+   L0
+    LINENUMBER 30 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL yg.<init> (Lahb;)V
+   L1
+    LINENUMBER 26 L1
+    ALOAD 0
+    BIPUSH 30
+    PUTFIELD xz.br : I
+   L2
+    LINENUMBER 27 L2
+    ALOAD 0
+    ICONST_3
+    PUTFIELD xz.bs : I
+   L3
+    LINENUMBER 32 L3
+    ALOAD 0
+    GETFIELD xz.c : Luj;
+    ICONST_1
+    NEW uf
+    DUP
+    ALOAD 0
+    INVOKESPECIAL uf.<init> (Lsw;)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L4
+    LINENUMBER 33 L4
+    ALOAD 0
+    GETFIELD xz.c : Luj;
+    ICONST_2
+    NEW vi
+    DUP
+    ALOAD 0
+    INVOKESPECIAL vi.<init> (Lxz;)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L5
+    LINENUMBER 34 L5
+    ALOAD 0
+    GETFIELD xz.c : Luj;
+    ICONST_3
+    NEW tw
+    DUP
+    ALOAD 0
+    LDC Lwn;.class
+    LDC 6.0
+    DCONST_1
+    LDC 1.2
+    INVOKESPECIAL tw.<init> (Ltd;Ljava/lang/Class;FDD)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L6
+    LINENUMBER 35 L6
+    ALOAD 0
+    GETFIELD xz.c : Luj;
+    ICONST_4
+    NEW uq
+    DUP
+    ALOAD 0
+    DCONST_1
+    ICONST_0
+    INVOKESPECIAL uq.<init> (Ltd;DZ)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L7
+    LINENUMBER 36 L7
+    ALOAD 0
+    GETFIELD xz.c : Luj;
+    ICONST_5
+    NEW vc
+    DUP
+    ALOAD 0
+    LDC 0.8
+    INVOKESPECIAL vc.<init> (Ltd;D)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L8
+    LINENUMBER 37 L8
+    ALOAD 0
+    GETFIELD xz.c : Luj;
+    BIPUSH 6
+    NEW un
+    DUP
+    ALOAD 0
+    LDC Lyz;.class
+    LDC 8.0
+    INVOKESPECIAL un.<init> (Lsw;Ljava/lang/Class;F)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L9
+    LINENUMBER 38 L9
+    ALOAD 0
+    GETFIELD xz.c : Luj;
+    BIPUSH 6
+    NEW vb
+    DUP
+    ALOAD 0
+    INVOKESPECIAL vb.<init> (Lsw;)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L10
+    LINENUMBER 40 L10
+    ALOAD 0
+    GETFIELD xz.d : Luj;
+    ICONST_1
+    NEW vo
+    DUP
+    ALOAD 0
+    LDC Lyz;.class
+    ICONST_0
+    ICONST_1
+    INVOKESPECIAL vo.<init> (Ltd;Ljava/lang/Class;IZ)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L11
+    LINENUMBER 41 L11
+    ALOAD 0
+    GETFIELD xz.d : Luj;
+    ICONST_2
+    NEW vn
+    DUP
+    ALOAD 0
+    ICONST_0
+    INVOKESPECIAL vn.<init> (Ltd;Z)V
+    INVOKEVIRTUAL uj.a (ILui;)V
+   L12
+    LINENUMBER 42 L12
+    RETURN
+    MAXSTACK = 11
+    MAXLOCALS = 2
+
+  // access flags 0x4
+  protected aD()V
+   L0
+    LINENUMBER 46 L0
+    ALOAD 0
+    INVOKESPECIAL yg.aD ()V
+   L1
+    LINENUMBER 48 L1
+    ALOAD 0
+    GETSTATIC yj.d : Lth;
+    INVOKEVIRTUAL xz.a (Lth;)Lti;
+    LDC 0.25
+    INVOKEINTERFACE ti.a (D)V
+   L2
+    LINENUMBER 49 L2
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public bk()Z
+   L0
+    LINENUMBER 53 L0
+    ICONST_1
+    IRETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public ax()I
+   L0
+    LINENUMBER 58 L0
+    ALOAD 0
+    INVOKEVIRTUAL xz.o ()Lsv;
+    IFNONNULL L1
+    ICONST_3
+    IRETURN
+   L1
+    LINENUMBER 60 L1
+   FRAME FULL [xz] []
+    ICONST_3
+    ALOAD 0
+    INVOKEVIRTUAL xz.aS ()F
+    FCONST_1
+    FSUB
+    F2I
+    IADD
+    IRETURN
+    MAXSTACK = 3
+    MAXLOCALS = 1
+
+  // access flags 0x4
+  protected b(F)V
+   L0
+    LINENUMBER 65 L0
+    ALOAD 0
+    FLOAD 1
+    INVOKESPECIAL yg.b (F)V
+   L1
+    LINENUMBER 67 L1
+    ALOAD 0
+    DUP
+    GETFIELD xz.bq : I
+    I2F
+    FLOAD 1
+    LDC 1.5
+    FMUL
+    FADD
+    F2I
+    PUTFIELD xz.bq : I
+   L2
+    LINENUMBER 68 L2
+    ALOAD 0
+    GETFIELD xz.bq : I
+    ALOAD 0
+    GETFIELD xz.br : I
+    ICONST_5
+    ISUB
+    IF_ICMPLE L3
+    ALOAD 0
+    ALOAD 0
+    GETFIELD xz.br : I
+    ICONST_5
+    ISUB
+    PUTFIELD xz.bq : I
+   L3
+    LINENUMBER 69 L3
+   FRAME FULL [xz F] []
+    RETURN
+    MAXSTACK = 4
+    MAXLOCALS = 2
+
+  // access flags 0x4
+  protected c()V
+   L0
+    LINENUMBER 73 L0
+    ALOAD 0
+    INVOKESPECIAL yg.c ()V
+   L1
+    LINENUMBER 75 L1
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 16
+    ICONST_M1
+    INVOKESTATIC java/lang/Byte.valueOf (B)Ljava/lang/Byte;
+    INVOKEVIRTUAL te.a (ILjava/lang/Object;)V
+   L2
+    LINENUMBER 76 L2
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 17
+    ICONST_0
+    INVOKESTATIC java/lang/Byte.valueOf (B)Ljava/lang/Byte;
+    INVOKEVIRTUAL te.a (ILjava/lang/Object;)V
+   L3
+    LINENUMBER 77 L3
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 18
+    ICONST_0
+    INVOKESTATIC java/lang/Byte.valueOf (B)Ljava/lang/Byte;
+    INVOKEVIRTUAL te.a (ILjava/lang/Object;)V
+   L4
+    LINENUMBER 78 L4
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public b(Ldh;)V
+   L0
+    LINENUMBER 82 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL yg.b (Ldh;)V
+   L1
+    LINENUMBER 83 L1
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 17
+    INVOKEVIRTUAL te.a (I)B
+    ICONST_1
+    IF_ICMPNE L2
+    ALOAD 1
+    LDC "powered"
+    ICONST_1
+    INVOKEVIRTUAL dh.a (Ljava/lang/String;Z)V
+   L2
+    LINENUMBER 84 L2
+   FRAME FULL [xz dh] []
+    ALOAD 1
+    LDC "Fuse"
+    ALOAD 0
+    GETFIELD xz.br : I
+    I2S
+    INVOKEVIRTUAL dh.a (Ljava/lang/String;S)V
+   L3
+    LINENUMBER 85 L3
+    ALOAD 1
+    LDC "ExplosionRadius"
+    ALOAD 0
+    GETFIELD xz.bs : I
+    I2B
+    INVOKEVIRTUAL dh.a (Ljava/lang/String;B)V
+   L4
+    LINENUMBER 86 L4
+    ALOAD 1
+    LDC "ignited"
+    ALOAD 0
+    INVOKEVIRTUAL xz.cc ()Z
+    INVOKEVIRTUAL dh.a (Ljava/lang/String;Z)V
+   L5
+    LINENUMBER 87 L5
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public a(Ldh;)V
+   L0
+    LINENUMBER 91 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL yg.a (Ldh;)V
+   L1
+    LINENUMBER 92 L1
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 17
+    ALOAD 1
+    LDC "powered"
+    INVOKEVIRTUAL dh.n (Ljava/lang/String;)Z
+    IFEQ L2
+    ICONST_1
+    GOTO L3
+   L2
+   FRAME FULL [xz dh] [te I]
+    ICONST_0
+   L3
+   FRAME FULL [xz dh] [te I I]
+    I2B
+    INVOKESTATIC java/lang/Byte.valueOf (B)Ljava/lang/Byte;
+    INVOKEVIRTUAL te.b (ILjava/lang/Object;)V
+   L4
+    LINENUMBER 93 L4
+    ALOAD 1
+    LDC "Fuse"
+    BIPUSH 99
+    INVOKEVIRTUAL dh.b (Ljava/lang/String;I)Z
+    IFEQ L5
+    ALOAD 0
+    ALOAD 1
+    LDC "Fuse"
+    INVOKEVIRTUAL dh.e (Ljava/lang/String;)S
+    PUTFIELD xz.br : I
+   L5
+    LINENUMBER 94 L5
+   FRAME FULL [xz dh] []
+    ALOAD 1
+    LDC "ExplosionRadius"
+    BIPUSH 99
+    INVOKEVIRTUAL dh.b (Ljava/lang/String;I)Z
+    IFEQ L6
+    ALOAD 0
+    ALOAD 1
+    LDC "ExplosionRadius"
+    INVOKEVIRTUAL dh.d (Ljava/lang/String;)B
+    PUTFIELD xz.bs : I
+   L6
+    LINENUMBER 95 L6
+   FRAME FULL [xz dh] []
+    ALOAD 1
+    LDC "ignited"
+    INVOKEVIRTUAL dh.n (Ljava/lang/String;)Z
+    IFEQ L7
+    ALOAD 0
+    INVOKEVIRTUAL xz.cd ()V
+   L7
+    LINENUMBER 96 L7
+   FRAME FULL [xz dh] []
+    RETURN
+    MAXSTACK = 4
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public h()V
+   L0
+    LINENUMBER 100 L0
+    ALOAD 0
+    INVOKEVIRTUAL xz.Z ()Z
+    IFEQ L1
+   L2
+    LINENUMBER 101 L2
+    ALOAD 0
+    ALOAD 0
+    GETFIELD xz.bq : I
+    PUTFIELD xz.bp : I
+   L3
+    LINENUMBER 104 L3
+    ALOAD 0
+    INVOKEVIRTUAL xz.cc ()Z
+    IFEQ L4
+   L5
+    LINENUMBER 105 L5
+    ALOAD 0
+    ICONST_1
+    INVOKEVIRTUAL xz.a (I)V
+   L4
+    LINENUMBER 108 L4
+   FRAME FULL [xz] []
+    ALOAD 0
+    INVOKEVIRTUAL xz.cb ()I
+    ISTORE 1
+   L6
+    LINENUMBER 109 L6
+    ILOAD 1
+    IFLE L7
+    ALOAD 0
+    GETFIELD xz.bq : I
+    IFNE L7
+   L8
+    LINENUMBER 110 L8
+    ALOAD 0
+    LDC "creeper.primed"
+    FCONST_1
+    LDC 0.5
+    INVOKEVIRTUAL xz.a (Ljava/lang/String;FF)V
+   L7
+    LINENUMBER 112 L7
+   FRAME FULL [xz I] []
+    ALOAD 0
+    DUP
+    GETFIELD xz.bq : I
+    ILOAD 1
+    IADD
+    PUTFIELD xz.bq : I
+   L9
+    LINENUMBER 113 L9
+    ALOAD 0
+    GETFIELD xz.bq : I
+    IFGE L10
+    ALOAD 0
+    ICONST_0
+    PUTFIELD xz.bq : I
+   L10
+    LINENUMBER 114 L10
+   FRAME FULL [xz I] []
+    ALOAD 0
+    GETFIELD xz.bq : I
+    ALOAD 0
+    GETFIELD xz.br : I
+    IF_ICMPLT L1
+   L11
+    LINENUMBER 115 L11
+    ALOAD 0
+    ALOAD 0
+    GETFIELD xz.br : I
+    PUTFIELD xz.bq : I
+   L12
+    LINENUMBER 116 L12
+    ALOAD 0
+    INVOKESPECIAL xz.ce ()V
+   L1
+    LINENUMBER 119 L1
+   FRAME FULL [xz] []
+    ALOAD 0
+    INVOKESPECIAL yg.h ()V
+   L13
+    LINENUMBER 120 L13
+    RETURN
+    MAXSTACK = 4
+    MAXLOCALS = 2
+
+  // access flags 0x4
+  protected aT()Ljava/lang/String;
+   L0
+    LINENUMBER 124 L0
+    LDC "mob.creeper.say"
+    ARETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x4
+  protected aU()Ljava/lang/String;
+   L0
+    LINENUMBER 129 L0
+    LDC "mob.creeper.death"
+    ARETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public a(Lro;)V
+   L0
+    LINENUMBER 134 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL yg.a (Lro;)V
+   L1
+    LINENUMBER 136 L1
+    ALOAD 1
+    INVOKEVIRTUAL ro.j ()Lsa;
+    INSTANCEOF yl
+    IFEQ L2
+   L3
+    LINENUMBER 138 L3
+    GETSTATIC ade.cd : Ladb;
+    INVOKESTATIC adb.b (Ladb;)I
+    ISTORE 2
+   L4
+    LINENUMBER 139 L4
+    GETSTATIC ade.co : Ladb;
+    INVOKESTATIC adb.b (Ladb;)I
+    ISTORE 3
+   L5
+    LINENUMBER 140 L5
+    ILOAD 2
+    ALOAD 0
+    GETFIELD xz.Z : Ljava/util/Random;
+    ILOAD 3
+    ILOAD 2
+    ISUB
+    ICONST_1
+    IADD
+    INVOKEVIRTUAL java/util/Random.nextInt (I)I
+    IADD
+    ISTORE 4
+   L6
+    LINENUMBER 141 L6
+    ALOAD 0
+    ILOAD 4
+    INVOKESTATIC adb.d (I)Ladb;
+    ICONST_1
+    INVOKEVIRTUAL xz.a (Ladb;I)Lxk;
+    POP
+   L2
+    LINENUMBER 143 L2
+   FRAME FULL [xz ro] []
+    RETURN
+    MAXSTACK = 4
+    MAXLOCALS = 5
+
+  // access flags 0x1
+  public n(Lsa;)Z
+   L0
+    LINENUMBER 147 L0
+    ICONST_1
+    IRETURN
+    MAXSTACK = 1
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public bZ()Z
+   L0
+    LINENUMBER 151 L0
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 17
+    INVOKEVIRTUAL te.a (I)B
+    ICONST_1
+    IF_ICMPNE L1
+    ICONST_1
+    GOTO L2
+   L1
+   FRAME FULL [xz] []
+    ICONST_0
+   L2
+   FRAME FULL [xz] [I]
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x4
+  protected u()Ladb;
+   L0
+    LINENUMBER 160 L0
+    GETSTATIC ade.H : Ladb;
+    ARETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public cb()I
+   L0
+    LINENUMBER 164 L0
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 16
+    INVOKEVIRTUAL te.a (I)B
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public a(I)V
+   L0
+    LINENUMBER 168 L0
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 16
+    ILOAD 1
+    I2B
+    INVOKESTATIC java/lang/Byte.valueOf (B)Ljava/lang/Byte;
+    INVOKEVIRTUAL te.b (ILjava/lang/Object;)V
+   L1
+    LINENUMBER 169 L1
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public a(Lxh;)V
+   L0
+    LINENUMBER 173 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL yg.a (Lxh;)V
+   L1
+    LINENUMBER 174 L1
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 17
+    ICONST_1
+    INVOKESTATIC java/lang/Byte.valueOf (B)Ljava/lang/Byte;
+    INVOKEVIRTUAL te.b (ILjava/lang/Object;)V
+   L2
+    LINENUMBER 175 L2
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 2
+
+  // access flags 0x4
+  protected a(Lyz;)Z
+   L0
+    LINENUMBER 179 L0
+    ALOAD 1
+    GETFIELD yz.bm : Lyx;
+    INVOKEVIRTUAL yx.h ()Ladd;
+    ASTORE 2
+   L1
+    LINENUMBER 180 L1
+    ALOAD 2
+    IFNULL L2
+    ALOAD 2
+    INVOKEVIRTUAL add.b ()Ladb;
+    GETSTATIC ade.d : Ladb;
+    IF_ACMPNE L2
+   L3
+    LINENUMBER 181 L3
+    ALOAD 0
+    GETFIELD xz.o : Lahb;
+    ALOAD 0
+    GETFIELD xz.s : D
+    LDC 0.5
+    DADD
+    ALOAD 0
+    GETFIELD xz.t : D
+    LDC 0.5
+    DADD
+    ALOAD 0
+    GETFIELD xz.u : D
+    LDC 0.5
+    DADD
+    LDC "fire.ignite"
+    FCONST_1
+    ALOAD 0
+    GETFIELD xz.Z : Ljava/util/Random;
+    INVOKEVIRTUAL java/util/Random.nextFloat ()F
+    LDC 0.4
+    FMUL
+    LDC 0.8
+    FADD
+    INVOKEVIRTUAL ahb.a (DDDLjava/lang/String;FF)V
+   L4
+    LINENUMBER 182 L4
+    ALOAD 1
+    INVOKEVIRTUAL yz.ba ()V
+   L5
+    LINENUMBER 183 L5
+    ALOAD 0
+    GETFIELD xz.o : Lahb;
+    GETFIELD ahb.E : Z
+    IFNE L2
+   L6
+    LINENUMBER 184 L6
+    ALOAD 0
+    INVOKEVIRTUAL xz.cd ()V
+   L7
+    LINENUMBER 185 L7
+    ALOAD 2
+    ICONST_1
+    ALOAD 1
+    INVOKEVIRTUAL add.a (ILsv;)V
+   L8
+    LINENUMBER 186 L8
+    ICONST_1
+    IRETURN
+   L2
+    LINENUMBER 190 L2
+   FRAME FULL [xz yz add] []
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL yg.a (Lyz;)Z
+    IRETURN
+    MAXSTACK = 11
+    MAXLOCALS = 3
+
+  // access flags 0x2
+  private ce()V
+   L0
+    LINENUMBER 194 L0
+    ALOAD 0
+    GETFIELD xz.o : Lahb;
+    GETFIELD ahb.E : Z
+    IFNE L1
+    ICONST_0
+    ISTORE 1
+   L2
+    LINENUMBER 196 L2
+    ALOAD 0
+    INVOKEVIRTUAL xz.bZ ()Z
+    IFEQ L3
+    ALOAD 0
+    GETFIELD xz.o : Lahb;
+    ALOAD 0
+    ALOAD 0
+    GETFIELD xz.s : D
+    ALOAD 0
+    GETFIELD xz.t : D
+    ALOAD 0
+    GETFIELD xz.u : D
+    ALOAD 0
+    GETFIELD xz.bs : I
+    ICONST_2
+    IMUL
+    I2F
+    ILOAD 1
+    INVOKEVIRTUAL ahb.a (Lsa;DDDFZ)Lagw;
+    POP
+    GOTO L4
+   L3
+    LINENUMBER 197 L3
+   FRAME FULL [xz I] []
+    ALOAD 0
+    GETFIELD xz.o : Lahb;
+    ALOAD 0
+    ALOAD 0
+    GETFIELD xz.s : D
+    ALOAD 0
+    GETFIELD xz.t : D
+    ALOAD 0
+    GETFIELD xz.u : D
+    ALOAD 0
+    GETFIELD xz.bs : I
+    I2F
+    ILOAD 1
+    INVOKEVIRTUAL ahb.a (Lsa;DDDFZ)Lagw;
+    POP
+   L4
+    LINENUMBER 198 L4
+   FRAME FULL [xz I] []
+    ALOAD 0
+    INVOKEVIRTUAL xz.B ()V
+   L1
+    LINENUMBER 200 L1
+   FRAME FULL [xz] []
+    RETURN
+    MAXSTACK = 10
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public cc()Z
+   L0
+    LINENUMBER 203 L0
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 18
+    INVOKEVIRTUAL te.a (I)B
+    IFEQ L1
+    ICONST_1
+    GOTO L2
+   L1
+   FRAME FULL [xz] []
+    ICONST_0
+   L2
+   FRAME FULL [xz] [I]
+    IRETURN
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public cd()V
+   L0
+    LINENUMBER 207 L0
+    ALOAD 0
+    GETFIELD xz.af : Lte;
+    BIPUSH 18
+    ICONST_1
+    INVOKESTATIC java/lang/Byte.valueOf (B)Ljava/lang/Byte;
+    INVOKEVIRTUAL te.b (ILjava/lang/Object;)V
+   L1
+    LINENUMBER 208 L1
+    RETURN
+    MAXSTACK = 3
+    MAXLOCALS = 1
+}
